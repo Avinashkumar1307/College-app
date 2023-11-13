@@ -1,0 +1,16 @@
+{
+    "web": {
+        "client_id": "471138381134-nkmu9j3h71bb97oeq83suq59h7p3qven.apps.googleusercontent.com",
+        "project_id": "vocal-clone-405011",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:3000/auth/google/callback"
+        ],
+        "javascript_origins": [
+            "http://localhost:3000"
+        ]
+    }
+}
